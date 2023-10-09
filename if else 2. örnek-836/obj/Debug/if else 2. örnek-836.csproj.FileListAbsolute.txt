@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\bin\Debug\if_else_2.örnek_836.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\bin\Debug\if_else_2.örnek_836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\bin\Debug\if_else_2.örnek_836.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if else 2. örnek-836.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if else 2. örnek-836.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if_else_2.örnek_836.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if_else_2.örnek_836.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if else 2. örnek-836.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if else 2. örnek-836.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if_else_2.örnek_836.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\if else 2. örnek-836\if else 2. örnek-836\obj\Debug\if_else_2.örnek_836.pdb
